@@ -8,7 +8,7 @@ The game in action:
 [![https://gyazo.com/5f8e5cc7752b54b5f92a2e522b5bee57](https://i.gyazo.com/5f8e5cc7752b54b5f92a2e522b5bee57.gif)](https://gyazo.com/5f8e5cc7752b54b5f92a2e522b5bee57)
 
 Some things to work on in the future:
-Make the clouds and crystals in the background scroll along with the bunny
-Implement an actual start menu
-and...
+Make the clouds and crystals in the background scroll along with the bunny  
+Implement an actual start menu  
+and...  
 not suck at this game huahuahua
